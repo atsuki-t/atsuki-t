@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<p align="center">
+  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuki-t" />
+  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=atsuki-t&show_icons=true" />
+</p>
+<p align="center"> 
+  <img alt="Trophies" height="150px" src="https://github-profile-trophy.vercel.app/?username=atsuki-t&rank=SSS,SS,S,AAA,AA,A&theme=juicyfresh" />
+</p>
+
 <!--
 **atsuki-t/atsuki-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

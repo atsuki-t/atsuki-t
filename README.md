@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-<p align="center">
-  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuki-t" />
-  <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=atsuki-t&show_icons=true" />
+<p align="left">
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuki-t" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=atsuki-t&show_icons=true" />
 </p>
-<p align="center"> 
+<p align="left"> 
   <img alt="Trophies" height="150px" src="https://github-profile-trophy.vercel.app/?username=atsuki-t&rank=SSS,SS,S,AAA,AA,A&theme=juicyfresh" />
 </p>
 
